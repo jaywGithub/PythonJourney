@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de37fef-eb57-4bf1-ae24-dbbef23a2a85" name="Changes" comment="Second exercise" />
+    <list default="true" id="8de37fef-eb57-4bf1-ae24-dbbef23a2a85" name="Changes" comment="Removed pizza order">
+      <change beforePath="$PROJECT_DIR$/pizzaOrder/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pizzaOrder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659193245093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed pizza order">
+      <created>1659794879683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659794879683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First exercise" />
     <MESSAGE value="Second exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second exercise" />
+    <MESSAGE value="Removed pizza order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed pizza order" />
   </component>
 </project>
